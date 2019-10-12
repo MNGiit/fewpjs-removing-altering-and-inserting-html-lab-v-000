@@ -5,4 +5,4 @@ let newHeader = document.createElement("h1");
 
 newHeader.id = "Victory"
 newHeader.innerHTML = "YOUR-NAME is the champion!";
-newHeader.className = "Victory";
+newHeader.className = "victory";
