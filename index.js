@@ -1,8 +1,8 @@
 // Write your code here!
 document.querySelector("main#main").remove();
 
-let header = document.createElement("h1");
+let newHeader = document.createElement("h1");
 
-header.id = "victory"
-header.innerHTML = "Flatiron School is the champion!";
-header.className = "victory";
+newHeader.id = "victory"
+newHeader.innerHTML = "Flatiron School is the champion!";
+newHeader.className = "victory";
